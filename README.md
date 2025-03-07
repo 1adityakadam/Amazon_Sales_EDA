@@ -1,5 +1,5 @@
 <div align="center">
-Automated_EDA_with_ydata_profiling
+Automated_EDA_Amazon_Sales_with_ydata_profiling
 </div>
 <br>
 <div align='center'>
