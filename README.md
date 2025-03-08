@@ -25,6 +25,11 @@ Power BI dashboard is designed to visualize Amazon sales data. The dashboard pro
 <img width="1040" src="https://github.com/user-attachments/assets/b06cc253-ce97-48f4-8f10-c5e88f61cbc0" width="600"></a>
 </div>
 
+---
+
+<img width="500" src="https://github.com/user-attachments/assets/01afdeed-049f-4fb8-af17-1bd767563dab" />
+<img width="500" src="https://github.com/user-attachments/assets/9d8f1011-e4c4-4738-9c2c-5efd8dd13c0c" />
+
 
 
 
