@@ -1,5 +1,5 @@
 <div align="center">
-Automated EDA + PowerBI visualization for Amazon_Sales 
+Automated EDA + PowerBI visualization for Amazon Sales 
 </div>
 <br>
 <div align='center'>
